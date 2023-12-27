@@ -7,6 +7,9 @@
 -test ysj -2
 
 
+- test sejin
+
+- 안녕하세요 브런치
 
 k- digital 11/27 practice
 
