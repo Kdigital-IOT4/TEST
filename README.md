@@ -10,4 +10,4 @@
 
 -hello I'm kyoungmin
 
-k- digital 11/27 practice
+k- digital 12/27 practice
