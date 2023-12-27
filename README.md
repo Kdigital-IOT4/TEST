@@ -2,8 +2,12 @@
 
 - git hub 연습용 repository
 
--test lkm
+- test ysj
 
--hello I'm kyoungmin
+-test ysj -2
 
-k- digital 11/27 practice
+
+
+-test ogs
+
+-test ogs 2
