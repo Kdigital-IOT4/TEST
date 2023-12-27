@@ -11,7 +11,7 @@
 
 - 안녕하세요 브런치
 
-k- digital 11/27 practice
+k- digital 12/27 practice
 
 -test ogs 2
 
