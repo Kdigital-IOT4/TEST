@@ -9,3 +9,5 @@
 k- digital 12/27 practice
 
 - test sejin
+
+- 안녕하세요 브런치
