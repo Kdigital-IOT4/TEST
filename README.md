@@ -7,3 +7,5 @@
 -hello I'm kyoungmin
 
 k- digital 12/27 practice
+
+- test sejin
